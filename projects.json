@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Site Ravi - Corretora de Seguros",
+    "image": "img/ravisite.png",
+    "tags": ["Html", "Css", "JavaScript"],
+    "link": "https://example.com/ravi"
+  },
+  {
+    "name": "Site TicketHigh - plataforma de compra de ingressos",
+    "image": "img/sitetickethigh.png",
+    "tags": ["Html", "Css", "JavaScript"],
+    "link": "https://example.com/tickethigh"
+  },
+    {
+    "name": "Site Ravi - Corretora de Seguros",
+    "image": "img/ravisite.png",
+    "tags": ["Html", "Css", "JavaScript"],
+    "link": "https://example.com/ravi"
+  }
+]
+
